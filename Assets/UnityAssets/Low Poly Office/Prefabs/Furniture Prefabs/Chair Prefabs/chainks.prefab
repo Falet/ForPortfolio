@@ -1,0 +1,300 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &271869413134946576
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 271869413134946577}
+  m_Layer: 0
+  m_Name: chainks
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &271869413134946577
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 271869413134946576}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 11.646297, y: -0.9444788, z: 32.116493}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 276000562785788435}
+  - {fileID: 276000562448059014}
+  - {fileID: 276000562216824036}
+  - {fileID: 276000563118690517}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &271869412027948699
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 271869413134946577}
+    m_Modifications:
+    - target: {fileID: 1438470339395326, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_Name
+      value: Office Chair 02 Black (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1438470339395326, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.17638588
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.468
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.21103668
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.34119993
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.93999076
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -140.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+--- !u!4 &276000563118690517 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+  m_PrefabInstance: {fileID: 271869412027948699}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &271869412777176157
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 271869413134946577}
+    m_Modifications:
+    - target: {fileID: 1438470339395326, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_Name
+      value: Office Chair 02 Black
+      objectReference: {fileID: 0}
+    - target: {fileID: 1438470339395326, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.34119993
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.93999076
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -140.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+--- !u!4 &276000562785788435 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+  m_PrefabInstance: {fileID: 271869412777176157}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &271869412976444616
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 271869413134946577}
+    m_Modifications:
+    - target: {fileID: 1438470339395326, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_Name
+      value: Office Chair 02 Black (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1438470339395326, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.07938576
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.13499999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.09503555
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.34119993
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.93999076
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -140.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+--- !u!4 &276000562448059014 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+  m_PrefabInstance: {fileID: 271869412976444616}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &271869413349319338
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 271869413134946577}
+    m_Modifications:
+    - target: {fileID: 1438470339395326, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_Name
+      value: Office Chair 02 Black (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1438470339395326, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.12638569
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.333
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.15103531
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.34119993
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.93999076
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -140.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+--- !u!4 &276000562216824036 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4876089042603598, guid: 3aede16fcc5f36c40a502a32fbfc7d9b, type: 3}
+  m_PrefabInstance: {fileID: 271869413349319338}
+  m_PrefabAsset: {fileID: 0}
